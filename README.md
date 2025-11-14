@@ -1,7 +1,6 @@
 # ex1
 
-A new Flutter project.
-
+**Working with widgets and layouts**
 ## Getting Started
 
 This project is a starting point for a Flutter application.
